@@ -12,7 +12,7 @@ const credits = [
   'Original Song: Bad Apple!!','Arrangement: Masayoshi Minoshima',
   'Vocals: nomico','Circle: Alstroemeria Records','Album: Lovelight','',
   'Original Video Animation:','Creator: Anira','Based on: Touhou Project','',
-  'Created for Hack Club:','You Ship We Ship (YSWS)','Project: Twist YSWS','',
+  'Created for Hack Club:','You Ship We Ship (YSWS)','Project: Cinema YSWS','',
   'Special Thanks:','FFmpeg for video processing','Sharp for Node.js image processing',
   'HTML Canvas for drawing magic','',
   'Presented for your enjoyment.','',
